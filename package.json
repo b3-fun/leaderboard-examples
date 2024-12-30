@@ -24,6 +24,7 @@
     "@radix-ui/react-toast": "^1.2.4",
     "@tanstack/react-table": "^8.10.1",
     "@thirdweb-dev/engine": "^0.0.17",
+    "bufferutil": "^4.0.9",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
@@ -37,6 +38,7 @@
     "react-hook-form": "^7.46.2",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
+    "utf-8-validate": "^6.0.5",
     "viem": "^2.21.57",
     "zod": "^3.22.2"
   },
